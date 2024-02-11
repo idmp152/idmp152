@@ -1,16 +1,15 @@
-### Hi there 👋
+### idmp152
+Python developer.
 
-<!--
-**idmp152/idmp152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Reach me via:
+- [email](ilyabelykh123@gmail.com)
+- [telegram](https://t.me/ilyabelykh)
+- discord (ov3rwrite)
+FastAPI, Docker, Redis, PostgreSQL, Python, C++
 
-Here are some ideas to get you started:
+best projects:
+- fod
+- braillert
+- ebaycrawler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![car](https://github.com/idmp152/idmp152/assets/38213271/345a4a0e-a128-43f9-9938-d8b9e4efa18a)
