@@ -6,7 +6,7 @@ Reach me via:
 - [telegram](https://t.me/ilyabelykh)
 - discord (ov3rwrite)
   
-FastAPI, Docker, Redis, PostgreSQL, Python, C++
+FastAPI, Django, Docker, Redis, PostgreSQL, Python, C
 
 best projects:
 - tppatchcord
