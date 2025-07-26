@@ -9,9 +9,10 @@ Reach me via:
 FastAPI, Docker, Redis, PostgreSQL, Python, C++
 
 best projects:
-- fod
+- tppatchcord
 - braillert
 - ebaycrawler
+- idmp152.github.io
 
 ![car](https://github.com/idmp152/idmp152/assets/38213271/345a4a0e-a128-43f9-9938-d8b9e4efa18a)
 
